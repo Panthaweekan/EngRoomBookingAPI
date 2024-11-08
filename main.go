@@ -6,6 +6,7 @@ import (
 
 	"github.com/Panthaweekan/EngRoomBookingAPI/api"
 	"github.com/Panthaweekan/EngRoomBookingAPI/config"
+	"github.com/Panthaweekan/EngRoomBookingAPI/infrastructure"
 	"github.com/Panthaweekan/EngRoomBookingAPI/pkg/lodash"
 	"github.com/gofiber/fiber/v2"
 )
@@ -16,7 +17,7 @@ func init() {
 	lodash.SetTimeZone("Asia/Bangkok")
 	config.InitConfig()
 	cfg = config.Config.Application
-	// infrastructure.InitDB()
+	infrastructure.InitDB()
 }
 
 func main() {

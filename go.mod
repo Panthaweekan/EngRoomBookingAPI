@@ -5,7 +5,6 @@ go 1.23
 toolchain go1.23.1
 
 require (
-	github.com/Long-Plan/longplan-api v0.0.0-20241101123338-aa47a50e80f0
 	github.com/TylerBrock/colorjson v0.0.0-20200706003622-8a50f05110d2
 	github.com/bytedance/sonic v1.12.2
 	github.com/gofiber/fiber/v2 v2.52.5
@@ -24,8 +23,10 @@ require (
 	github.com/cloudwego/iasm v0.2.0 // indirect
 	github.com/fatih/color v1.14.1 // indirect
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
+	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/google/uuid v1.5.0 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
+	github.com/hokaccha/go-prettyjson v0.0.0-20211117102719-0474bc63780f // indirect
 	github.com/jackc/pgpassfile v1.0.0 // indirect
 	github.com/jackc/pgservicefile v0.0.0-20221227161230-091c0ba34f0a // indirect
 	github.com/jackc/pgx/v5 v5.5.5 // indirect

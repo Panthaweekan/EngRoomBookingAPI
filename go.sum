@@ -1,5 +1,3 @@
-github.com/Long-Plan/longplan-api v0.0.0-20241101123338-aa47a50e80f0 h1:4SVu2CjZScPy3ah0w+QWRk66kc7nnTyrED4Da5ixnAY=
-github.com/Long-Plan/longplan-api v0.0.0-20241101123338-aa47a50e80f0/go.mod h1:YSb9shCaVi0Ced62O3Wzq4iw6NhZjXpkygOjbmjSVlM=
 github.com/TylerBrock/colorjson v0.0.0-20200706003622-8a50f05110d2 h1:ZBbLwSJqkHBuFDA6DUhhse0IGJ7T5bemHyNILUjvOq4=
 github.com/TylerBrock/colorjson v0.0.0-20200706003622-8a50f05110d2/go.mod h1:VSw57q4QFiWDbRnjdX8Cb3Ow0SFncRw+bA/ofY6Q83w=
 github.com/andybalholm/brotli v1.0.5 h1:8uQZIdzKmjc/iuPu7O2ioW48L81FgatrcpfFmiq/cCs=
